@@ -133,6 +133,6 @@
 
 	"confirmation_email": {
 		"subject": "Vaš Nostr račun",
-		"body": "Pozdravljeni!\n\nTo je vaš Nostr npub:\n{$1}\n\nIn to je vaš šifriran Nostr ključ:\n{$2}\n\nNe pozabite shraniti izbranega gesla na varno mesto!\n\nDobrodošel na Nostru :)\n\nPS: Ta e-poštni naslov ne sprejema odgovorov. Za podporo se obrni na  https://njump.me/dtonon.com or https://njump.me/fiatjaf.com na Nostru"
+		"body": "Pozdravljeni!\n\nTo je vaš Nostr npub:\n{$1}\n\nIn to je vaš šifriran Nostr ključ:\n{$2}\n\nNe pozabite shraniti izbranega gesla na varno mesto!\n\nDobrodošli na Nostru :)\n\nPS: Ta e-poštni naslov ne sprejema odgovorov. Za podporo se obrni na  https://njump.me/dtonon.com or https://njump.me/fiatjaf.com na Nostru"
 	}
 }
